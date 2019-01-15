@@ -13,5 +13,6 @@ setuptools.setup(
     },
     install_requires=[
         'requests',
+        'beautifulsoup4',
     ]
 )
