@@ -1,0 +1,17 @@
+import setuptools
+
+setuptools.setup(
+    name='rafl',
+    version='0.1.0',
+    description='RAFL Web Helpers',
+    author='rplnt',
+    python_requires='>=3.6.0',
+    packages=setuptools.find_packages(exclude=('tests',)),
+
+    entry_points={
+        'console_scripts': ['rafl-scrape=scraper.scrape:main'],
+    },
+    install_requires=[
+        'requests',
+    ]
+)
