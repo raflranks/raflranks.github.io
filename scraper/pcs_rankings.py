@@ -67,7 +67,7 @@ def parse_ranks(html):
             logging.error('Rider "{rider}" already present')
             raise ValueError('Duplicit Entry')
 
-        ranks[rider] = points
+        ranks[rider] = int(points)
 
     return ranks
 
