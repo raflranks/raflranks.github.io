@@ -9,10 +9,11 @@ setuptools.setup(
     packages=setuptools.find_packages(exclude=('tests',)),
 
     entry_points={
-        'console_scripts': ['rafl-scrape=scraper.scrape:main'],
+        'console_scripts': ['rafl-scrape=scraper.pcs_rankings:main'],
     },
     install_requires=[
         'requests',
         'beautifulsoup4',
+        'flake8',
     ]
 )
