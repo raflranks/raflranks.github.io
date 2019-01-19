@@ -14,6 +14,7 @@ setuptools.setup(
     install_requires=[
         'requests',
         'beautifulsoup4',
+        'fuzzywuzzy',
         'flake8',
     ]
 )
