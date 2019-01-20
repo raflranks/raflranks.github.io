@@ -1,0 +1,2474 @@
+{
+  "Red": [
+    {
+      "owner": "Avila99",
+      "riders": {
+        "romain-bardet": {
+          "cost": 5.4
+        },
+        "egan-bernal": {
+          "cost": 6.0
+        },
+        "julian-alaphilippe": {
+          "cost": 7.0
+        },
+        "franklin-archivold": {
+          "cost": 0.2
+        },
+        "michal-kwiatkowski": {
+          "cost": 5.0
+        },
+        "edwin-avila": {
+          "cost": 0.1
+        },
+        "mathieu-van-der-poel": {
+          "cost": 1.4
+        },
+        "dylan-groenewegen": {
+          "cost": 2.5
+        },
+        "antwan-tolhoek": {
+          "cost": 0.8
+        },
+        "bauke-mollema": {
+          "cost": 2.0
+        },
+        "andre-greipel": {
+          "cost": 0.8
+        },
+        "timo-roosen": {
+          "cost": 0.8
+        },
+        "huub-duijn": {
+          "cost": 0.1
+        },
+        "timothy-dupont": {
+          "cost": 0.8
+        },
+        "yves-lampaert": {
+          "cost": 1.1
+        },
+        "sep-vanmarcke": {
+          "cost": 1.2
+        },
+        "hugo-hofstetter": {
+          "cost": 0.5
+        },
+        "ben-o-connor": {
+          "cost": 0.7
+        },
+        "roman-kreuziger-1": {
+          "cost": 0.7
+        },
+        "jan-willem-van-schip": {
+          "cost": 1.1
+        },
+        "pello-bilbao": {
+          "cost": 1.1
+        },
+        "manuel-belletti": {
+          "cost": 0.4
+        },
+        "marco-canola": {
+          "cost": 0.1
+        },
+        "felix-grossschartner": {
+          "cost": 0.2
+        }
+      }
+    },
+    {
+      "owner": "demfrecklestho",
+      "riders": {
+        "primoz-roglic": {
+          "cost": 7.2
+        },
+        "thibaut-pinot": {
+          "cost": 5.8
+        },
+        "fernando-gaviria": {
+          "cost": 4.1
+        },
+        "tim-wellens": {
+          "cost": 4.4
+        },
+        "tiesj-benoot": {
+          "cost": 2.6
+        },
+        "matteo-trentin": {
+          "cost": 1.5
+        },
+        "pierre-rolland": {
+          "cost": 2.1
+        },
+        "jon-mould": {
+          "cost": 0.1
+        },
+        "marc-soler": {
+          "cost": 1.0
+        },
+        "ivan-ramiro-sosa": {
+          "cost": 0.8
+        },
+        "enric-mas": {
+          "cost": 1.0
+        },
+        "mikel-landa": {
+          "cost": 2.3
+        },
+        "marcel-kittel": {
+          "cost": 1.1
+        },
+        "jonathan-castroviejo": {
+          "cost": 0.3
+        },
+        "lilian-calmejane": {
+          "cost": 1.6
+        },
+        "alexis-vuillermoz": {
+          "cost": 0.1
+        },
+        "mathias-frank": {
+          "cost": 0.3
+        },
+        "omar-fraile": {
+          "cost": 0.2
+        },
+        "thomas-boudat": {
+          "cost": 0.1
+        },
+        "bjorg-lambrecht": {
+          "cost": 0.1
+        },
+        "jhonatan-narvaez": {
+          "cost": 0.1
+        },
+        "luke-durbridge": {
+          "cost": 0.2
+        },
+        "carlos-barbero": {
+          "cost": 0.1
+        },
+        "phil-bauhaus": {
+          "cost": 2.9
+        }
+      }
+    },
+    {
+      "owner": "epi_counts",
+      "riders": {
+        "aleksey-lutsenko": {
+          "cost": 3.0
+        },
+        "steven-kruijswijk": {
+          "cost": 4.5
+        },
+        "simon-yates": {
+          "cost": 7.7
+        },
+        "bob-jungels": {
+          "cost": 3.2
+        },
+        "sam-oomen": {
+          "cost": 5.8
+        },
+        "michael-valgren-andersen": {
+          "cost": 2.6
+        },
+        "zdenek-stybar": {
+          "cost": 2.0
+        },
+        "adam-yates": {
+          "cost": 2.2
+        },
+        "richard-carapaz": {
+          "cost": 1.6
+        },
+        "jack-haig": {
+          "cost": 0.6
+        },
+        "johan-esteban-chaves": {
+          "cost": 1.7
+        },
+        "tony-gallopin": {
+          "cost": 1.0
+        },
+        "tony-martin": {
+          "cost": 0.4
+        },
+        "guillaume-martin": {
+          "cost": 0.7
+        },
+        "cameron-meyer": {
+          "cost": 0.2
+        },
+        "ariel-maximiliano-richeze": {
+          "cost": 0.2
+        },
+        "david-gaudu": {
+          "cost": 1.0
+        },
+        "robert-gesink": {
+          "cost": 0.4
+        },
+        "giulio-ciccone": {
+          "cost": 0.5
+        },
+        "enrico-battaglin": {
+          "cost": 0.3
+        },
+        "alexandre-geniez": {
+          "cost": 0.1
+        },
+        "rein-taaramae": {
+          "cost": 0.1
+        },
+        "casper-pedersen": {
+          "cost": 0.1
+        },
+        "ian-stannard": {
+          "cost": 0.1
+        }
+      }
+    },
+    {
+      "owner": "hi-i-am-new-here",
+      "riders": {
+        "tom-dumoulin": {
+          "cost": 8.7
+        },
+        "warren-barguil": {
+          "cost": 1.3
+        },
+        "alejandro-valverde": {
+          "cost": 7.6
+        },
+        "elia-viviani": {
+          "cost": 6.2
+        },
+        "geraint-thomas": {
+          "cost": 3.5
+        },
+        "nairo-quintana": {
+          "cost": 4.4
+        },
+        "noel-richet": {
+          "cost": 2.2
+        },
+        "domenico-pozzovivo": {
+          "cost": 1.3
+        },
+        "michael-woods": {
+          "cost": 1.1
+        },
+        "gianluca-brambilla": {
+          "cost": 0.3
+        },
+        "rafal-majka": {
+          "cost": 1.3
+        },
+        "romain-hardy": {
+          "cost": 0.2
+        },
+        "mikel-nieve": {
+          "cost": 0.2
+        },
+        "baptiste-planckaert": {
+          "cost": 0.1
+        },
+        "andrea-pasqualon": {
+          "cost": 0.4
+        },
+        "nicolas-roche": {
+          "cost": 0.1
+        },
+        "louis-meintjes": {
+          "cost": 0.1
+        },
+        "jasper-de-buyst": {
+          "cost": 0.1
+        },
+        "tanel-kangert": {
+          "cost": 0.1
+        },
+        "jose-goncalves": {
+          "cost": 0.1
+        },
+        "mauro-finetto": {
+          "cost": 0.1
+        },
+        "daniel-moreno": {
+          "cost": 0.1
+        },
+        "daniel-mclay": {
+          "cost": 0.1
+        },
+        "carlos-verona": {
+          "cost": 0.1
+        }
+      }
+    },
+    {
+      "owner": "Lewiiss",
+      "riders": {
+        "christopher-froome": {
+          "cost": 6.6
+        },
+        "philippe-gilbert": {
+          "cost": 2.7
+        },
+        "miguel-angel-lopez": {
+          "cost": 5.1
+        },
+        "sam-bennett": {
+          "cost": 2.1
+        },
+        "guillaume-martin": {
+          "cost": 4.2
+        },
+        "john-degenkolb": {
+          "cost": 1.6
+        },
+        "diego-ulissi": {
+          "cost": 1.6
+        },
+        "thomas-de-gendt": {
+          "cost": 0.7
+        },
+        "rigoberto-uran": {
+          "cost": 1.8
+        },
+        "christophe-laporte": {
+          "cost": 1.0
+        },
+        "jakob-fuglsang": {
+          "cost": 1.4
+        },
+        "oliver-naesen": {
+          "cost": 2.6
+        },
+        "alvaro-jose-hodeg": {
+          "cost": 1.0
+        },
+        "wout-poels": {
+          "cost": 1.3
+        },
+        "damiano-caruso": {
+          "cost": 1.0
+        },
+        "patrick-konrad": {
+          "cost": 1.5
+        },
+        "david-de-la-cruz": {
+          "cost": 0.4
+        },
+        "rudy-molard": {
+          "cost": 0.4
+        },
+        "jean-pierre-drucker": {
+          "cost": 0.5
+        },
+        "luke-rowe": {
+          "cost": 0.1
+        },
+        "silvan-dillier": {
+          "cost": 0.4
+        },
+        "edward-theuns": {
+          "cost": 0.5
+        },
+        "sacha-modolo": {
+          "cost": 0.3
+        },
+        "dylan-van-baarle": {
+          "cost": 0.1
+        }
+      }
+    },
+    {
+      "owner": "Sprocketduck",
+      "riders": {
+        "peter-sagan": {
+          "cost": 8.6
+        },
+        "michael-matthews": {
+          "cost": 6.0
+        },
+        "jorge-arcas": {
+          "cost": 0.1
+        },
+        "ilnur-zakarin": {
+          "cost": 2.5
+        },
+        "richie-porte": {
+          "cost": 3.6
+        },
+        "wout-van-aert": {
+          "cost": 4.4
+        },
+        "fabio-aru": {
+          "cost": 2.0
+        },
+        "rohan-dennis": {
+          "cost": 2.6
+        },
+        "mark-cavendish": {
+          "cost": 0.9
+        },
+        "taco-van-der-hoorn": {
+          "cost": 0.8
+        },
+        "daryl-impey": {
+          "cost": 1.0
+        },
+        "patrick-bevin": {
+          "cost": 0.5
+        },
+        "sergio-luis-henao": {
+          "cost": 0.6
+        },
+        "jan-tratnik": {
+          "cost": 0.9
+        },
+        "dion-smith": {
+          "cost": 0.5
+        },
+        "eduard-prades": {
+          "cost": 0.6
+        },
+        "ruben-guerreiro": {
+          "cost": 0.7
+        },
+        "tao-geoghegan-hart": {
+          "cost": 0.3
+        },
+        "pavel-sivakov": {
+          "cost": 0.3
+        },
+        "hugh-carthy": {
+          "cost": 0.1
+        },
+        "sebastien-reichenbach": {
+          "cost": 0.6
+        },
+        "jay-mccarthy": {
+          "cost": 0.4
+        },
+        "toms-skujins": {
+          "cost": 0.5
+        },
+        "florian-senechal": {
+          "cost": 1.5
+        }
+      }
+    },
+    {
+      "owner": "StevieSF",
+      "riders": {
+        "fabio-jakobsen": {
+          "cost": 3.4
+        },
+        "pascal-ackermann": {
+          "cost": 4.0
+        },
+        "luis-leon-sanchez": {
+          "cost": 1.3
+        },
+        "caleb-ewan": {
+          "cost": 3.0
+        },
+        "arnaud-demare": {
+          "cost": 3.5
+        },
+        "sonny-colbrelli": {
+          "cost": 4.0
+        },
+        "mads-pedersen": {
+          "cost": 1.8
+        },
+        "sepp-kuss": {
+          "cost": 0.4
+        },
+        "george-bennett": {
+          "cost": 2.4
+        },
+        "laurens-de-plus": {
+          "cost": 0.5
+        },
+        "jasper-stuyven": {
+          "cost": 3.0
+        },
+        "matej-mohoric": {
+          "cost": 1.5
+        },
+        "daniel-felipe-martinez": {
+          "cost": 1.0
+        },
+        "maximilian-schachmann": {
+          "cost": 1.8
+        },
+        "pierre-latour": {
+          "cost": 1.0
+        },
+        "emanuel-buchmann": {
+          "cost": 1.5
+        },
+        "nils-politt": {
+          "cost": 0.7
+        },
+        "nico-denz": {
+          "cost": 0.4
+        },
+        "jelle-vanendert": {
+          "cost": 0.4
+        },
+        "victor-campenaerts": {
+          "cost": 0.7
+        },
+        "jasper-philipsen": {
+          "cost": 0.7
+        },
+        "stefan-kung": {
+          "cost": 0.7
+        },
+        "kasper-asgreen": {
+          "cost": 0.4
+        },
+        "tejay-van-garderen": {
+          "cost": 1.9
+        }
+      }
+    },
+    {
+      "owner": "The_77",
+      "riders": {
+        "magnus-bak-klaris": {
+          "cost": 2.1
+        },
+        "alexander-kristoff": {
+          "cost": 3.7
+        },
+        "edvald-boasson-hagen": {
+          "cost": 1.1
+        },
+        "niki-terpstra": {
+          "cost": 1.5
+        },
+        "greg-van-avermaet": {
+          "cost": 6.1
+        },
+        "vincenzo-nibali": {
+          "cost": 4.4
+        },
+        "fabio-felline": {
+          "cost": 0.7
+        },
+        "ion-izagirre": {
+          "cost": 2.5
+        },
+        "gorka-izagirre": {
+          "cost": 1.0
+        },
+        "wilco-kelderman": {
+          "cost": 1.7
+        },
+        "davide-formolo": {
+          "cost": 0.9
+        },
+        "gianni-moscon": {
+          "cost": 1.2
+        },
+        "nacer-bouhanni": {
+          "cost": 0.6
+        },
+        "dylan-teuns": {
+          "cost": 2.9
+        },
+        "bryan-coquard": {
+          "cost": 0.5
+        },
+        "soren-kragh-andersen": {
+          "cost": 0.8
+        },
+        "giacomo-nizzolo": {
+          "cost": 0.6
+        },
+        "nathan-haas": {
+          "cost": 0.8
+        },
+        "ben-hermans": {
+          "cost": 0.6
+        },
+        "simon-spilak": {
+          "cost": 0.3
+        },
+        "rui-costa": {
+          "cost": 1.2
+        },
+        "danny-van-poppel": {
+          "cost": 1.7
+        },
+        "jens-keukeleire": {
+          "cost": 1.6
+        },
+        "jakub-mareczko": {
+          "cost": 1.5
+        }
+      }
+    }
+  ],
+  "Blue Tit": [
+    {
+      "owner": "AwakenTheBacon",
+      "riders": {
+        "michael-matthews": {
+          "cost": 5.0
+        },
+        "noel-richet": {
+          "cost": 1.8
+        },
+        "thibaut-pinot": {
+          "cost": 5.8
+        },
+        "tiesj-benoot": {
+          "cost": 2.0
+        },
+        "zdenek-stybar": {
+          "cost": 2.1
+        },
+        "lilian-calmejane": {
+          "cost": 1.1
+        },
+        "romain-bardet": {
+          "cost": 4.0
+        },
+        "domenico-pozzovivo": {
+          "cost": 1.2
+        },
+        "pierre-rolland": {
+          "cost": 0.5
+        },
+        "miguel-angel-lopez": {
+          "cost": 4.0
+        },
+        "sonny-colbrelli": {
+          "cost": 2.2
+        },
+        "gianni-moscon": {
+          "cost": 1.5
+        },
+        "bauke-mollema": {
+          "cost": 2.0
+        },
+        "bjorg-lambrecht": {
+          "cost": 0.3
+        },
+        "jay-mccarthy": {
+          "cost": 0.3
+        },
+        "andrea-pasqualon": {
+          "cost": 0.5
+        },
+        "dylan-teuns": {
+          "cost": 1.2
+        },
+        "sebastien-reichenbach": {
+          "cost": 0.7
+        },
+        "sam-oomen": {
+          "cost": 1.0
+        },
+        "christophe-laporte": {
+          "cost": 1.4
+        },
+        "damien-touze": {
+          "cost": 0.1
+        },
+        "yevgeniy-gidich": {
+          "cost": 0.1
+        },
+        "sacha-modolo": {
+          "cost": 0.1
+        },
+        "alexandre-geniez": {
+          "cost": 0.1
+        }
+      }
+    },
+    {
+      "owner": "BloomEPU",
+      "riders": {
+        "michal-kwiatkowski": {
+          "cost": 7.5
+        },
+        "bob-jungels": {
+          "cost": 12.0
+        },
+        "niki-terpstra": {
+          "cost": 1.9
+        },
+        "antwan-tolhoek": {
+          "cost": 1.4
+        },
+        "ilnur-zakarin": {
+          "cost": 1.0
+        },
+        "mark-cavendish": {
+          "cost": 1.0
+        },
+        "david-gaudu": {
+          "cost": 0.9
+        },
+        "jakob-fuglsang": {
+          "cost": 1.8
+        },
+        "xianjing-lyu": {
+          "cost": 0.2
+        },
+        "adam-yates": {
+          "cost": 3.1
+        },
+        "dylan-van-baarle": {
+          "cost": 0.5
+        },
+        "jasper-philipsen": {
+          "cost": 0.8
+        },
+        "jean-pierre-drucker": {
+          "cost": 0.3
+        },
+        "marc-soler": {
+          "cost": 1.1
+        },
+        "guillaume-martin": {
+          "cost": 0.4
+        },
+        "tony-gallopin": {
+          "cost": 0.9
+        },
+        "victor-campenaerts": {
+          "cost": 0.7
+        },
+        "lawson-craddock": {
+          "cost": 0.2
+        },
+        "mathieu-van-der-poel": {
+          "cost": 0.6
+        },
+        "magnus-bak-klaris": {
+          "cost": 1.0
+        },
+        "sergio-luis-henao": {
+          "cost": 0.7
+        },
+        "gavin-mannion": {
+          "cost": 0.6
+        },
+        "edward-irl-dunbar": {
+          "cost": 0.4
+        },
+        "luke-rowe": {
+          "cost": 0.7
+        }
+      }
+    },
+    {
+      "owner": "cloudbadger",
+      "riders": {
+        "elia-viviani": {
+          "cost": 7.9
+        },
+        "vincenzo-nibali": {
+          "cost": 3.9
+        },
+        "daryl-impey": {
+          "cost": 1.0
+        },
+        "wout-poels": {
+          "cost": 2.1
+        },
+        "rafal-majka": {
+          "cost": 1.5
+        },
+        "arnaud-demare": {
+          "cost": 4.1
+        },
+        "joseph-areruya": {
+          "cost": 0.2
+        },
+        "valentin-madouas": {
+          "cost": 0.7
+        },
+        "pierre-latour": {
+          "cost": 1.8
+        },
+        "matej-mohoric": {
+          "cost": 1.9
+        },
+        "david-de-la-cruz": {
+          "cost": 0.5
+        },
+        "stefan-kung": {
+          "cost": 0.6
+        },
+        "matteo-trentin": {
+          "cost": 1.4
+        },
+        "alexander-kristoff": {
+          "cost": 1.9
+        },
+        "aleksey-lutsenko": {
+          "cost": 0.6
+        },
+        "mads-pedersen": {
+          "cost": 0.6
+        },
+        "jack-haig": {
+          "cost": 0.4
+        },
+        "rohan-dennis": {
+          "cost": 2.2
+        },
+        "felix-grossschartner": {
+          "cost": 0.5
+        },
+        "enrico-battaglin": {
+          "cost": 0.3
+        },
+        "hugo-hofstetter": {
+          "cost": 0.3
+        },
+        "ivan-ramiro-sosa": {
+          "cost": 0.5
+        },
+        "enrico-gasparotto": {
+          "cost": 0.1
+        },
+        "riccardo-zoidl": {
+          "cost": 5.0
+        }
+      }
+    },
+    {
+      "owner": "gwagadoeboe",
+      "riders": {
+        "peter-sagan": {
+          "cost": 9.8
+        },
+        "dylan-groenewegen": {
+          "cost": 4.6
+        },
+        "primoz-roglic": {
+          "cost": 6.7
+        },
+        "fernando-gaviria": {
+          "cost": 2.6
+        },
+        "steven-kruijswijk": {
+          "cost": 3.5
+        },
+        "rui-costa": {
+          "cost": 0.7
+        },
+        "nathan-haas": {
+          "cost": 0.4
+        },
+        "juraj-sagan": {
+          "cost": 0.8
+        },
+        "nico-denz": {
+          "cost": 0.3
+        },
+        "soren-kragh-andersen": {
+          "cost": 0.9
+        },
+        "diego-ulissi": {
+          "cost": 0.7
+        },
+        "antonio-nibali": {
+          "cost": 0.1
+        },
+        "lars-boom": {
+          "cost": 0.3
+        },
+        "gregor-muhlberger": {
+          "cost": 0.1
+        },
+        "giacomo-nizzolo": {
+          "cost": 0.3
+        },
+        "serghei-tvetcov": {
+          "cost": 0.3
+        },
+        "tosh-van-der-sande": {
+          "cost": 0.1
+        },
+        "giulio-ciccone": {
+          "cost": 0.4
+        },
+        "jens-keukeleire": {
+          "cost": 0.2
+        },
+        "robert-gesink": {
+          "cost": 0.1
+        },
+        "guillaume-van-keirsbulck": {
+          "cost": 0.3
+        },
+        "lukas-postlberger": {
+          "cost": 0.1
+        },
+        "pieter-weening": {
+          "cost": 0.1
+        },
+        "gianluca-brambilla": {
+          "cost": 6.6
+        }
+      }
+    },
+    {
+      "owner": "Jumbostation",
+      "riders": {
+        "sep-vanmarcke": {
+          "cost": 2.0
+        },
+        "christopher-froome": {
+          "cost": 8.2
+        },
+        "tom-dumoulin": {
+          "cost": 10.5
+        },
+        "ben-o-connor": {
+          "cost": 0.7
+        },
+        "pascal-ackermann": {
+          "cost": 3.1
+        },
+        "oliver-naesen": {
+          "cost": 3.2
+        },
+        "fabio-jakobsen": {
+          "cost": 2.0
+        },
+        "michael-valgren-andersen": {
+          "cost": 1.6
+        },
+        "emanuel-buchmann": {
+          "cost": 1.6
+        },
+        "yoann-offredo": {
+          "cost": 0.1
+        },
+        "tadej-pogacar": {
+          "cost": 0.4
+        },
+        "edward-theuns": {
+          "cost": 0.2
+        },
+        "mikel-nieve": {
+          "cost": 0.1
+        },
+        "silvan-dillier": {
+          "cost": 0.3
+        },
+        "daniel-navarro": {
+          "cost": 0.1
+        },
+        "hugh-carthy": {
+          "cost": 0.1
+        },
+        "philippe-gilbert": {
+          "cost": 3.4
+        },
+        "mikkel-bjerg": {
+          "cost": 0.1
+        },
+        "krists-neilands": {
+          "cost": 0.1
+        },
+        "mike-teunissen": {
+          "cost": 0.1
+        },
+        "omar-fraile": {
+          "cost": 0.1
+        },
+        "daniel-felipe-martinez": {
+          "cost": 1.1
+        },
+        "benoit-cosnefroy": {
+          "cost": 0.1
+        },
+        "tony-martin": {
+          "cost": 0.1
+        }
+      }
+    },
+    {
+      "owner": "michaelj23",
+      "riders": {
+        "alejandro-valverde": {
+          "cost": 7.0
+        },
+        "tim-wellens": {
+          "cost": 5.0
+        },
+        "mikel-landa": {
+          "cost": 2.2
+        },
+        "thomas-de-gendt": {
+          "cost": 0.3
+        },
+        "ion-izagirre": {
+          "cost": 2.7
+        },
+        "caleb-ewan": {
+          "cost": 1.7
+        },
+        "rigoberto-uran": {
+          "cost": 1.5
+        },
+        "amanuel-gebrezgabihier": {
+          "cost": 0.4
+        },
+        "artem-ovechkin": {
+          "cost": 0.2
+        },
+        "richard-carapaz": {
+          "cost": 1.2
+        },
+        "sergei-chernetski": {
+          "cost": 0.1
+        },
+        "xandro-meurisse": {
+          "cost": 0.1
+        },
+        "guillaume-boivin": {
+          "cost": 0.5
+        },
+        "fausto-masnada": {
+          "cost": 0.3
+        },
+        "edvald-boasson-hagen": {
+          "cost": 0.5
+        },
+        "danny-van-poppel": {
+          "cost": 0.4
+        },
+        "roman-kreuziger-1": {
+          "cost": 0.5
+        },
+        "gorka-izagirre": {
+          "cost": 0.7
+        },
+        "eduard-prades": {
+          "cost": 0.4
+        },
+        "jesus-herrada-lopez": {
+          "cost": 0.1
+        },
+        "john-degenkolb": {
+          "cost": 1.8
+        },
+        "damiano-caruso": {
+          "cost": 0.7
+        },
+        "luis-leon-sanchez": {
+          "cost": 0.5
+        },
+        "raul-alarcon": {
+          "cost": 4.0
+        }
+      }
+    },
+    {
+      "owner": "Msfan93",
+      "riders": {
+        "julian-alaphilippe": {
+          "cost": 7.6
+        },
+        "geraint-thomas": {
+          "cost": 4.5
+        },
+        "warren-barguil": {
+          "cost": 1.5
+        },
+        "greg-van-avermaet": {
+          "cost": 4.5
+        },
+        "jasper-stuyven": {
+          "cost": 5.7
+        },
+        "tejay-van-garderen": {
+          "cost": 0.7
+        },
+        "michael-woods": {
+          "cost": 2.5
+        },
+        "ben-hermans": {
+          "cost": 0.4
+        },
+        "george-bennett": {
+          "cost": 1.2
+        },
+        "alexis-gougeard": {
+          "cost": 0.1
+        },
+        "guillaume-martin": {
+          "cost": 1.5
+        },
+        "dion-smith": {
+          "cost": 0.5
+        },
+        "patrick-bevin": {
+          "cost": 0.3
+        },
+        "peter-stetina": {
+          "cost": 0.1
+        },
+        "sepp-kuss": {
+          "cost": 0.6
+        },
+        "colin-joyce": {
+          "cost": 0.1
+        },
+        "toms-skujins": {
+          "cost": 0.5
+        },
+        "ian-boswell": {
+          "cost": 0.1
+        },
+        "luis-lemus": {
+          "cost": 0.1
+        },
+        "taylor-phinney": {
+          "cost": 0.1
+        },
+        "alex-kirsch": {
+          "cost": 0.1
+        },
+        "kiel-reijnen": {
+          "cost": 0.1
+        },
+        "brandon-mcnulty": {
+          "cost": 0.1
+        },
+        "travis-mccabe": {
+          "cost": 0.1
+        }
+      }
+    },
+    {
+      "owner": "sulfuratus",
+      "riders": {
+        "simon-yates": {
+          "cost": 7.3
+        },
+        "nairo-quintana": {
+          "cost": 7.0
+        },
+        "yves-lampaert": {
+          "cost": 3.1
+        },
+        "fabio-aru": {
+          "cost": 0.7
+        },
+        "egan-bernal": {
+          "cost": 2.8
+        },
+        "alvaro-jose-hodeg": {
+          "cost": 1.4
+        },
+        "andrey-amador": {
+          "cost": 0.4
+        },
+        "richie-porte": {
+          "cost": 2.0
+        },
+        "enric-mas": {
+          "cost": 2.1
+        },
+        "maximilian-schachmann": {
+          "cost": 0.7
+        },
+        "wilco-kelderman": {
+          "cost": 0.9
+        },
+        "taco-van-der-hoorn": {
+          "cost": 1.0
+        },
+        "wout-van-aert": {
+          "cost": 0.8
+        },
+        "nacer-bouhanni": {
+          "cost": 0.8
+        },
+        "pello-bilbao": {
+          "cost": 0.5
+        },
+        "sam-bennett": {
+          "cost": 1.0
+        },
+        "patrick-konrad": {
+          "cost": 0.8
+        },
+        "alexis-vuillermoz": {
+          "cost": 0.6
+        },
+        "davide-formolo": {
+          "cost": 0.8
+        },
+        "andre-greipel": {
+          "cost": 1.0
+        },
+        "marcel-kittel": {
+          "cost": 1.0
+        },
+        "timothy-dupont": {
+          "cost": 0.5
+        },
+        "nils-politt": {
+          "cost": 0.5
+        },
+        "niccolo-bonifazio": {
+          "cost": 0.1
+        }
+      }
+    }
+  ],
+  "Shroom": [
+    {
+      "owner": "andytheciderman",
+      "riders": {
+        "simon-yates": {
+          "cost": 7.0
+        },
+        "sonny-colbrelli": {
+          "cost": 4.2
+        },
+        "oliver-naesen": {
+          "cost": 3.5
+        },
+        "wout-van-aert": {
+          "cost": 2.3
+        },
+        "michal-kwiatkowski": {
+          "cost": 5.5
+        },
+        "fabio-jakobsen": {
+          "cost": 2.2
+        },
+        "emanuel-buchmann": {
+          "cost": 1.6
+        },
+        "alvaro-jose-hodeg": {
+          "cost": 1.4
+        },
+        "david-gaudu": {
+          "cost": 0.3
+        },
+        "wout-poels": {
+          "cost": 1.2
+        },
+        "dylan-teuns": {
+          "cost": 1.6
+        },
+        "michael-woods": {
+          "cost": 1.8
+        },
+        "silvan-dillier": {
+          "cost": 0.6
+        },
+        "philippe-gilbert": {
+          "cost": 1.7
+        },
+        "guillaume-martin": {
+          "cost": 0.8
+        },
+        "toms-skujins": {
+          "cost": 0.8
+        },
+        "lilian-calmejane": {
+          "cost": 0.9
+        },
+        "alexandre-geniez": {
+          "cost": 0.6
+        },
+        "marco-canola": {
+          "cost": 0.1
+        },
+        "jan-tratnik": {
+          "cost": 0.1
+        },
+        "xandro-meurisse": {
+          "cost": 0.1
+        },
+        "mike-teunissen": {
+          "cost": 0.1
+        },
+        "bryan-coquard": {
+          "cost": 0.1
+        },
+        "giulio-ciccone": {
+          "cost": 0.1
+        }
+      }
+    },
+    {
+      "owner": "FSR2007",
+      "riders": {
+        "tim-wellens": {
+          "cost": 4.5
+        },
+        "tom-dumoulin": {
+          "cost": 11.2
+        },
+        "arnaud-demare": {
+          "cost": 5.3
+        },
+        "egan-bernal": {
+          "cost": 4.2
+        },
+        "george-bennett": {
+          "cost": 1.9
+        },
+        "tiesj-benoot": {
+          "cost": 2.8
+        },
+        "luis-leon-sanchez": {
+          "cost": 1.0
+        },
+        "rui-costa": {
+          "cost": 0.7
+        },
+        "sergio-luis-henao": {
+          "cost": 0.6
+        },
+        "hugo-hofstetter": {
+          "cost": 1.0
+        },
+        "edvald-boasson-hagen": {
+          "cost": 0.6
+        },
+        "richard-carapaz": {
+          "cost": 1.3
+        },
+        "edward-theuns": {
+          "cost": 0.5
+        },
+        "mads-wurtz-schmidt": {
+          "cost": 0.3
+        },
+        "pierre-rolland": {
+          "cost": 0.4
+        },
+        "gorka-izagirre": {
+          "cost": 1.0
+        },
+        "mark-cavendish": {
+          "cost": 0.5
+        },
+        "heinrich-haussler": {
+          "cost": 0.2
+        },
+        "tanel-kangert": {
+          "cost": 0.2
+        },
+        "stephane-rossetto": {
+          "cost": 0.1
+        },
+        "nacer-bouhanni": {
+          "cost": 0.4
+        },
+        "mathias-frank": {
+          "cost": 0.3
+        },
+        "adam-blythe": {
+          "cost": 0.3
+        },
+        "omar-fraile": {
+          "cost": 0.4
+        }
+      }
+    },
+    {
+      "owner": "Mattho",
+      "riders": {
+        "pascal-ackermann": {
+          "cost": 4.2
+        },
+        "thibaut-pinot": {
+          "cost": 6.1
+        },
+        "sam-oomen": {
+          "cost": 2.5
+        },
+        "gianluca-brambilla": {
+          "cost": 0.8
+        },
+        "steven-kruijswijk": {
+          "cost": 2.7
+        },
+        "jasper-stuyven": {
+          "cost": 3.2
+        },
+        "guillaume-martin": {
+          "cost": 3.1
+        },
+        "tony-martin": {
+          "cost": 0.3
+        },
+        "enric-mas": {
+          "cost": 2.7
+        },
+        "aleksey-lutsenko": {
+          "cost": 1.0
+        },
+        "daniel-felipe-martinez": {
+          "cost": 0.6
+        },
+        "tony-gallopin": {
+          "cost": 0.7
+        },
+        "edwin-avila": {
+          "cost": 0.2
+        },
+        "andre-greipel": {
+          "cost": 0.6
+        },
+        "noel-richet": {
+          "cost": 1.0
+        },
+        "ion-izagirre": {
+          "cost": 2.2
+        },
+        "diego-ulissi": {
+          "cost": 0.9
+        },
+        "sam-bennett": {
+          "cost": 1.3
+        },
+        "warren-barguil": {
+          "cost": 0.5
+        },
+        "manuel-belletti": {
+          "cost": 0.2
+        },
+        "jasper-philipsen": {
+          "cost": 0.5
+        },
+        "damiano-caruso": {
+          "cost": 0.3
+        },
+        "eduard-prades": {
+          "cost": 0.3
+        },
+        "mathieu-van-der-poel": {
+          "cost": 4.1
+        }
+      }
+    },
+    {
+      "owner": "microfen",
+      "riders": {
+        "taco-van-der-hoorn": {
+          "cost": 1.0
+        },
+        "greg-van-avermaet": {
+          "cost": 6.3
+        },
+        "christopher-froome": {
+          "cost": 7.7
+        },
+        "alejandro-valverde": {
+          "cost": 7.5
+        },
+        "romain-bardet": {
+          "cost": 6.0
+        },
+        "robin-carpenter": {
+          "cost": 0.2
+        },
+        "marc-soler": {
+          "cost": 2.1
+        },
+        "maximilian-schachmann": {
+          "cost": 1.8
+        },
+        "benoit-cosnefroy": {
+          "cost": 0.5
+        },
+        "merhawi-kudus": {
+          "cost": 0.1
+        },
+        "lars-boom": {
+          "cost": 0.4
+        },
+        "christophe-laporte": {
+          "cost": 1.7
+        },
+        "patrick-konrad": {
+          "cost": 2.1
+        },
+        "rasmus-quaade": {
+          "cost": 0.2
+        },
+        "juraj-sagan": {
+          "cost": 0.1
+        },
+        "timo-roosen": {
+          "cost": 0.4
+        },
+        "sean-de-bie": {
+          "cost": 0.4
+        },
+        "arthur-vichot": {
+          "cost": 0.1
+        },
+        "mikel-nieve": {
+          "cost": 0.2
+        },
+        "thomas-boudat": {
+          "cost": 0.1
+        },
+        "lawrence-warbasse": {
+          "cost": 0.1
+        },
+        "robert-stannard": {
+          "cost": 0.1
+        },
+        "robert-gesink": {
+          "cost": 0.1
+        },
+        "florian-senechal": {
+          "cost": 0.8
+        }
+      }
+    },
+    {
+      "owner": "mmitchell30",
+      "riders": {
+        "daryl-impey": {
+          "cost": 1.1
+        },
+        "ilnur-zakarin": {
+          "cost": 2.5
+        },
+        "guillaume-van-keirsbulck": {
+          "cost": 0.6
+        },
+        "peter-sagan": {
+          "cost": 10.5
+        },
+        "caleb-ewan": {
+          "cost": 4.0
+        },
+        "elia-viviani": {
+          "cost": 6.3
+        },
+        "johan-esteban-chaves": {
+          "cost": 1.8
+        },
+        "niklas-eg": {
+          "cost": 0.5
+        },
+        "sep-vanmarcke": {
+          "cost": 1.7
+        },
+        "valentin-madouas": {
+          "cost": 1.5
+        },
+        "julian-alaphilippe": {
+          "cost": 7.0
+        },
+        "ivan-ramiro-sosa": {
+          "cost": 1.3
+        },
+        "michael-albasini": {
+          "cost": 0.1
+        },
+        "jack-haig": {
+          "cost": 0.1
+        },
+        "nathan-haas": {
+          "cost": 0.1
+        },
+        "tao-geoghegan-hart": {
+          "cost": 0.1
+        },
+        "dylan-van-baarle": {
+          "cost": 0.1
+        },
+        "jay-mccarthy": {
+          "cost": 0.1
+        },
+        "jakub-mareczko": {
+          "cost": 0.1
+        },
+        "daniel-hoelgaard": {
+          "cost": 0.1
+        },
+        "thomas-de-gendt": {
+          "cost": 0.1
+        },
+        "luke-durbridge": {
+          "cost": 0.1
+        },
+        "sacha-modolo": {
+          "cost": 0.1
+        },
+        "enrico-gasparotto": {
+          "cost": 0.1
+        }
+      }
+    },
+    {
+      "owner": "reviloto",
+      "riders": {
+        "jakob-fuglsang": {
+          "cost": 2.7
+        },
+        "giacomo-nizzolo": {
+          "cost": 1.1
+        },
+        "michael-matthews": {
+          "cost": 5.5
+        },
+        "jean-pierre-drucker": {
+          "cost": 1.5
+        },
+        "geraint-thomas": {
+          "cost": 4.6
+        },
+        "miguel-angel-lopez": {
+          "cost": 5.5
+        },
+        "gianni-moscon": {
+          "cost": 2.7
+        },
+        "michael-valgren-andersen": {
+          "cost": 3.3
+        },
+        "mads-pedersen": {
+          "cost": 2.2
+        },
+        "rudy-molard": {
+          "cost": 0.9
+        },
+        "magnus-bak-klaris": {
+          "cost": 1.9
+        },
+        "jonas-rickaert": {
+          "cost": 0.3
+        },
+        "pello-bilbao": {
+          "cost": 0.9
+        },
+        "dylan-groenewegen": {
+          "cost": 2.2
+        },
+        "timothy-dupont": {
+          "cost": 1.4
+        },
+        "davide-formolo": {
+          "cost": 0.9
+        },
+        "phil-bauhaus": {
+          "cost": 0.2
+        },
+        "rafal-majka": {
+          "cost": 1.2
+        },
+        "alexander-kamp": {
+          "cost": 0.4
+        },
+        "benjamin-dyball": {
+          "cost": 0.1
+        },
+        "rasmus-guldhammer": {
+          "cost": 0.1
+        },
+        "simone-consonni": {
+          "cost": 0.1
+        },
+        "bjorg-lambrecht": {
+          "cost": 0.1
+        },
+        "nils-politt": {
+          "cost": 0.2
+        }
+      }
+    },
+    {
+      "owner": "Sappert",
+      "riders": {
+        "nairo-quintana": {
+          "cost": 5.7
+        },
+        "rigoberto-uran": {
+          "cost": 3.4
+        },
+        "mikel-landa": {
+          "cost": 3.3
+        },
+        "bob-jungels": {
+          "cost": 3.3
+        },
+        "fabio-felline": {
+          "cost": 1.2
+        },
+        "alexander-kristoff": {
+          "cost": 3.2
+        },
+        "adam-yates": {
+          "cost": 3.1
+        },
+        "bauke-mollema": {
+          "cost": 3.0
+        },
+        "domenico-pozzovivo": {
+          "cost": 1.1
+        },
+        "tejay-van-garderen": {
+          "cost": 0.8
+        },
+        "fabio-aru": {
+          "cost": 1.0
+        },
+        "john-degenkolb": {
+          "cost": 2.2
+        },
+        "wilco-kelderman": {
+          "cost": 1.6
+        },
+        "matteo-trentin": {
+          "cost": 1.6
+        },
+        "richie-porte": {
+          "cost": 2.6
+        },
+        "lawrence-naesen": {
+          "cost": 0.2
+        },
+        "max-walscheid": {
+          "cost": 0.3
+        },
+        "danny-van-poppel": {
+          "cost": 0.8
+        },
+        "ruben-guerreiro": {
+          "cost": 0.6
+        },
+        "jens-debusschere": {
+          "cost": 0.2
+        },
+        "hermann-pernsteiner": {
+          "cost": 0.1
+        },
+        "amanuel-gebrezgabihier": {
+          "cost": 0.1
+        },
+        "jurgen-roelandts": {
+          "cost": 0.1
+        },
+        "jonathan-castroviejo": {
+          "cost": 0.5
+        }
+      }
+    },
+    {
+      "owner": "SpursIn8",
+      "riders": {
+        "roman-kreuziger-1": {
+          "cost": 1.3
+        },
+        "primoz-roglic": {
+          "cost": 6.6
+        },
+        "vincenzo-nibali": {
+          "cost": 4.4
+        },
+        "fernando-gaviria": {
+          "cost": 4.1
+        },
+        "rohan-dennis": {
+          "cost": 3.1
+        },
+        "niki-terpstra": {
+          "cost": 1.9
+        },
+        "matej-mohoric": {
+          "cost": 2.3
+        },
+        "yves-lampaert": {
+          "cost": 1.9
+        },
+        "sepp-kuss": {
+          "cost": 1.6
+        },
+        "marcel-kittel": {
+          "cost": 0.8
+        },
+        "pierre-latour": {
+          "cost": 2.1
+        },
+        "zdenek-stybar": {
+          "cost": 1.4
+        },
+        "andrea-pasqualon": {
+          "cost": 0.9
+        },
+        "ben-gastauer": {
+          "cost": 0.8
+        },
+        "lukasz-wisniowski": {
+          "cost": 0.5
+        },
+        "soren-kragh-andersen": {
+          "cost": 1.8
+        },
+        "serghei-tvetcov": {
+          "cost": 0.3
+        },
+        "ben-o-connor": {
+          "cost": 0.8
+        },
+        "felix-grossschartner": {
+          "cost": 0.7
+        },
+        "bas-van-der-kooij": {
+          "cost": 0.2
+        },
+        "kasper-asgreen": {
+          "cost": 0.3
+        },
+        "jesus-herrada-lopez": {
+          "cost": 0.2
+        },
+        "stefan-kung": {
+          "cost": 0.4
+        },
+        "victor-campenaerts": {
+          "cost": 0.3
+        }
+      }
+    }
+  ],
+  "Bert": [
+    {
+      "owner": "Adryy8",
+      "riders": {
+        "patrick-bevin": {
+          "cost": 1.0
+        },
+        "benjamin-dyball": {
+          "cost": 1.2
+        },
+        "oliver-naesen": {
+          "cost": 3.7
+        },
+        "jakob-fuglsang": {
+          "cost": 3.1
+        },
+        "michael-woods": {
+          "cost": 3.1
+        },
+        "thibaut-pinot": {
+          "cost": 9.0
+        },
+        "juan-sebastian-molano": {
+          "cost": 0.8
+        },
+        "marc-soler": {
+          "cost": 1.6
+        },
+        "sergei-chernetski": {
+          "cost": 0.7
+        },
+        "greg-van-avermaet": {
+          "cost": 5.8
+        },
+        "gorka-izagirre": {
+          "cost": 0.7
+        },
+        "gianni-moscon": {
+          "cost": 1.7
+        },
+        "patrick-konrad": {
+          "cost": 1.0
+        },
+        "rudy-molard": {
+          "cost": 0.4
+        },
+        "sam-bennett": {
+          "cost": 0.5
+        },
+        "christophe-laporte": {
+          "cost": 1.3
+        },
+        "ilnur-zakarin": {
+          "cost": 0.9
+        },
+        "valentin-madouas": {
+          "cost": 0.7
+        },
+        "damiano-caruso": {
+          "cost": 0.3
+        },
+        "maximilian-schachmann": {
+          "cost": 0.4
+        },
+        "davide-formolo": {
+          "cost": 0.5
+        },
+        "artem-ovechkin": {
+          "cost": 0.1
+        },
+        "jakub-mareczko": {
+          "cost": 0.5
+        },
+        "nacer-bouhanni": {
+          "cost": 0.3
+        }
+      }
+    },
+    {
+      "owner": "blandwhiteguy",
+      "riders": {
+        "ion-izagirre": {
+          "cost": 3.1
+        },
+        "tom-dumoulin": {
+          "cost": 9.9
+        },
+        "timothy-dupont": {
+          "cost": 1.7
+        },
+        "richie-porte": {
+          "cost": 3.9
+        },
+        "fausto-masnada": {
+          "cost": 0.7
+        },
+        "caleb-ewan": {
+          "cost": 2.9
+        },
+        "johan-esteban-chaves": {
+          "cost": 1.5
+        },
+        "alvaro-jose-hodeg": {
+          "cost": 1.3
+        },
+        "jay-mccarthy": {
+          "cost": 0.8
+        },
+        "bob-jungels": {
+          "cost": 3.2
+        },
+        "guillaume-martin": {
+          "cost": 1.1
+        },
+        "tom-jelte-slagter": {
+          "cost": 0.5
+        },
+        "ben-hermans": {
+          "cost": 1.1
+        },
+        "giacomo-nizzolo": {
+          "cost": 0.8
+        },
+        "serghei-tvetcov": {
+          "cost": 0.4
+        },
+        "hugo-hofstetter": {
+          "cost": 1.3
+        },
+        "mikel-landa": {
+          "cost": 2.8
+        },
+        "tejay-van-garderen": {
+          "cost": 1.2
+        },
+        "robert-power": {
+          "cost": 0.6
+        },
+        "jean-pierre-drucker": {
+          "cost": 0.5
+        },
+        "laurens-de-plus": {
+          "cost": 0.3
+        },
+        "giovanni-visconti": {
+          "cost": 0.1
+        },
+        "ben-gastauer": {
+          "cost": 0.2
+        },
+        "tosh-van-der-sande": {
+          "cost": 0.1
+        }
+      }
+    },
+    {
+      "owner": "fewfiet",
+      "riders": {
+        "rigoberto-uran": {
+          "cost": 3.2
+        },
+        "guillaume-martin": {
+          "cost": 3.7
+        },
+        "george-bennett": {
+          "cost": 2.0
+        },
+        "alexander-kristoff": {
+          "cost": 3.5
+        },
+        "marco-canola": {
+          "cost": 1.4
+        },
+        "dylan-groenewegen": {
+          "cost": 3.6
+        },
+        "pascal-ackermann": {
+          "cost": 3.3
+        },
+        "diego-ulissi": {
+          "cost": 1.7
+        },
+        "domenico-pozzovivo": {
+          "cost": 3.2
+        },
+        "lilian-calmejane": {
+          "cost": 1.2
+        },
+        "michal-kwiatkowski": {
+          "cost": 4.8
+        },
+        "marcel-kittel": {
+          "cost": 1.5
+        },
+        "vincenzo-nibali": {
+          "cost": 3.9
+        },
+        "dylan-teuns": {
+          "cost": 1.4
+        },
+        "rui-costa": {
+          "cost": 0.3
+        },
+        "bjorg-lambrecht": {
+          "cost": 0.2
+        },
+        "phil-bauhaus": {
+          "cost": 0.3
+        },
+        "warren-barguil": {
+          "cost": 0.1
+        },
+        "gianluca-brambilla": {
+          "cost": 0.1
+        },
+        "sacha-modolo": {
+          "cost": 0.2
+        },
+        "fabio-felline": {
+          "cost": 0.1
+        },
+        "nathan-haas": {
+          "cost": 0.1
+        },
+        "giulio-ciccone": {
+          "cost": 0.1
+        },
+        "max-walscheid": {
+          "cost": 0.1
+        }
+      }
+    },
+    {
+      "owner": "mestermestermester",
+      "riders": {
+        "nairo-quintana": {
+          "cost": 5.4
+        },
+        "christopher-juul-jensen": {
+          "cost": 0.3
+        },
+        "noel-richet": {
+          "cost": 0.5
+        },
+        "geraint-thomas": {
+          "cost": 4.3
+        },
+        "andrea-pasqualon": {
+          "cost": 1.9
+        },
+        "tony-martin": {
+          "cost": 0.7
+        },
+        "fabio-aru": {
+          "cost": 2.3
+        },
+        "mads-pedersen": {
+          "cost": 1.6
+        },
+        "stefan-kung": {
+          "cost": 1.9
+        },
+        "tim-wellens": {
+          "cost": 5.3
+        },
+        "soren-kragh-andersen": {
+          "cost": 1.4
+        },
+        "rafal-majka": {
+          "cost": 2.6
+        },
+        "ian-stannard": {
+          "cost": 0.5
+        },
+        "enric-mas": {
+          "cost": 3.2
+        },
+        "magnus-bak-klaris": {
+          "cost": 1.4
+        },
+        "tony-gallopin": {
+          "cost": 0.8
+        },
+        "thomas-de-gendt": {
+          "cost": 0.3
+        },
+        "andre-greipel": {
+          "cost": 0.9
+        },
+        "luis-leon-sanchez": {
+          "cost": 0.6
+        },
+        "alexandre-geniez": {
+          "cost": 0.5
+        },
+        "pierre-latour": {
+          "cost": 2.7
+        },
+        "edvald-boasson-hagen": {
+          "cost": 0.5
+        },
+        "yevgeniy-gidich": {
+          "cost": 0.1
+        },
+        "david-de-la-cruz": {
+          "cost": 0.3
+        }
+      }
+    },
+    {
+      "owner": "ser-seaworth",
+      "riders": {
+        "michael-matthews": {
+          "cost": 6.5
+        },
+        "christopher-froome": {
+          "cost": 6.2
+        },
+        "daniel-mclay": {
+          "cost": 0.3
+        },
+        "egan-bernal": {
+          "cost": 5.1
+        },
+        "nicolas-roche": {
+          "cost": 0.3
+        },
+        "steven-kruijswijk": {
+          "cost": 4.0
+        },
+        "aksel-nommela": {
+          "cost": 0.4
+        },
+        "toms-skujins": {
+          "cost": 1.0
+        },
+        "wout-poels": {
+          "cost": 2.2
+        },
+        "miguel-angel-lopez": {
+          "cost": 5.1
+        },
+        "bauke-mollema": {
+          "cost": 3.0
+        },
+        "arnaud-demare": {
+          "cost": 4.5
+        },
+        "eduard-prades": {
+          "cost": 0.2
+        },
+        "carlos-barbero": {
+          "cost": 0.1
+        },
+        "timo-roosen": {
+          "cost": 0.1
+        },
+        "jonathan-castroviejo": {
+          "cost": 0.1
+        },
+        "omar-fraile": {
+          "cost": 0.1
+        },
+        "bryan-coquard": {
+          "cost": 0.2
+        },
+        "sergio-luis-henao": {
+          "cost": 0.1
+        },
+        "enrico-gasparotto": {
+          "cost": 0.1
+        },
+        "mikel-nieve": {
+          "cost": 0.1
+        },
+        "manuel-belletti": {
+          "cost": 0.1
+        },
+        "davide-ballerini": {
+          "cost": 0.1
+        },
+        "jack-haig": {
+          "cost": 0.1
+        }
+      }
+    },
+    {
+      "owner": "That_Guuuuuuuy",
+      "riders": {
+        "simon-yates": {
+          "cost": 7.2
+        },
+        "tiesj-benoot": {
+          "cost": 3.0
+        },
+        "sam-oomen": {
+          "cost": 1.8
+        },
+        "richard-carapaz": {
+          "cost": 2.0
+        },
+        "sven-burger": {
+          "cost": 0.2
+        },
+        "danny-van-poppel": {
+          "cost": 1.7
+        },
+        "aleksey-lutsenko": {
+          "cost": 2.0
+        },
+        "samuel-mugisha": {
+          "cost": 0.1
+        },
+        "julian-alaphilippe": {
+          "cost": 7.5
+        },
+        "romain-bardet": {
+          "cost": 7.9
+        },
+        "luke-rowe": {
+          "cost": 0.3
+        },
+        "adam-yates": {
+          "cost": 3.0
+        },
+        "fabio-jakobsen": {
+          "cost": 1.0
+        },
+        "ivan-ramiro-sosa": {
+          "cost": 0.6
+        },
+        "jens-keukeleire": {
+          "cost": 0.3
+        },
+        "raul-alarcon": {
+          "cost": 0.2
+        },
+        "taco-van-der-hoorn": {
+          "cost": 0.2
+        },
+        "pierre-rolland": {
+          "cost": 0.1
+        },
+        "andrea-guardini": {
+          "cost": 0.1
+        },
+        "jan-polanc": {
+          "cost": 0.1
+        },
+        "ben-o-connor": {
+          "cost": 0.4
+        },
+        "remi-cavagna": {
+          "cost": 0.1
+        },
+        "michael-freiberg": {
+          "cost": 0.1
+        },
+        "tadej-pogacar": {
+          "cost": 0.1
+        }
+      }
+    },
+    {
+      "owner": "t0asti",
+      "riders": {
+        "bert-de-backer": {
+          "cost": 0.2
+        },
+        "fernando-gaviria": {
+          "cost": 2.7
+        },
+        "primoz-roglic": {
+          "cost": 6.2
+        },
+        "alejandro-valverde": {
+          "cost": 7.8
+        },
+        "rohan-dennis": {
+          "cost": 3.1
+        },
+        "elia-viviani": {
+          "cost": 9.2
+        },
+        "matteo-trentin": {
+          "cost": 2.1
+        },
+        "roman-kreuziger-1": {
+          "cost": 1.6
+        },
+        "lukasz-wisniowski": {
+          "cost": 0.6
+        },
+        "daryl-impey": {
+          "cost": 0.6
+        },
+        "wilco-kelderman": {
+          "cost": 0.8
+        },
+        "philippe-gilbert": {
+          "cost": 1.3
+        },
+        "emanuel-buchmann": {
+          "cost": 0.9
+        },
+        "zdenek-stybar": {
+          "cost": 0.6
+        },
+        "felix-grossschartner": {
+          "cost": 0.2
+        },
+        "pello-bilbao": {
+          "cost": 0.3
+        },
+        "eduard-michael-grosu": {
+          "cost": 0.1
+        },
+        "nils-politt": {
+          "cost": 0.2
+        },
+        "sep-vanmarcke": {
+          "cost": 0.5
+        },
+        "victor-campenaerts": {
+          "cost": 0.3
+        },
+        "jasper-philipsen": {
+          "cost": 0.1
+        },
+        "tao-geoghegan-hart": {
+          "cost": 0.3
+        },
+        "sebastien-reichenbach": {
+          "cost": 0.1
+        },
+        "enrico-battaglin": {
+          "cost": 0.2
+        }
+      }
+    },
+    {
+      "owner": "vogelpoep",
+      "riders": {
+        "wout-van-aert": {
+          "cost": 3.0
+        },
+        "jasper-stuyven": {
+          "cost": 5.4
+        },
+        "matej-mohoric": {
+          "cost": 4.4
+        },
+        "niki-terpstra": {
+          "cost": 2.7
+        },
+        "sonny-colbrelli": {
+          "cost": 4.2
+        },
+        "peter-sagan": {
+          "cost": 10.3
+        },
+        "michael-valgren-andersen": {
+          "cost": 3.8
+        },
+        "charles-planet": {
+          "cost": 0.1
+        },
+        "mathieu-van-der-poel": {
+          "cost": 0.9
+        },
+        "john-degenkolb": {
+          "cost": 2.2
+        },
+        "jan-willem-van-schip": {
+          "cost": 0.3
+        },
+        "silvan-dillier": {
+          "cost": 0.3
+        },
+        "nico-denz": {
+          "cost": 0.2
+        },
+        "yves-lampaert": {
+          "cost": 1.2
+        },
+        "alex-kirsch": {
+          "cost": 0.1
+        },
+        "florian-senechal": {
+          "cost": 0.1
+        },
+        "thomas-boudat": {
+          "cost": 0.1
+        },
+        "adrien-petit": {
+          "cost": 0.1
+        },
+        "marc-sarreau": {
+          "cost": 0.1
+        },
+        "edward-theuns": {
+          "cost": 0.1
+        },
+        "jurgen-roelandts": {
+          "cost": 0.1
+        },
+        "jens-debusschere": {
+          "cost": 0.1
+        },
+        "xandro-meurisse": {
+          "cost": 0.1
+        },
+        "david-gaudu": {
+          "cost": 0.1
+        }
+      }
+    }
+  ]
+}
