@@ -32,7 +32,7 @@ def parse_args():
 
 
 def get_current_rank_id():
-    url = f'{BASE_URL}/rankings/me/pcs/individual'
+    url = f'{BASE_URL}/rankings/me/season/individual'
     resp = requests.get(url)
     if not resp.ok:
         logging.error(f'failed to load ranking id')
@@ -104,7 +104,6 @@ def main():
 
     if args.ranking_id is None:
         args.ranking_id = get_current_rank_id()
-        return
 
     complete_ranks = {}
     for offset in range(0, args.max_pages * args.paging, args.paging):

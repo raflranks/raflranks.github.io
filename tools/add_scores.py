@@ -84,7 +84,7 @@ def main():
         'week_number': args.week,
         'scores': diff,
     }
-    if len(scores['weekly_data']) >= args.week:
+    if len(scores['weekly_data']) < args.week:
         logging.info('Updating week data')
         scores['weekly_data'][args.week] = new_week_data
     else:
