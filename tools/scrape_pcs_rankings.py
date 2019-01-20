@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+from datetime import date
 import argparse
 import logging
 import json
@@ -10,7 +11,7 @@ import os
 import requests
 from bs4 import BeautifulSoup as bs
 
-BASE_URL = 'https://www.procyclingstats.com/'
+BASE_URL = 'https://www.procyclingstats.com'
 
 
 def parse_args():
@@ -18,16 +19,39 @@ def parse_args():
     parser.add_argument('filename', help='Output file')
     parser.add_argument('--paging', type=int, default=200, help='Number of entries to show (50, 100, 200)')
     parser.add_argument('--max-pages', type=int, default=10, help='Number of pages to scrape')
-    parser.add_argument('--ranking-id', type=int, default=32806, help='Rank page id')
+    parser.add_argument('--ranking-id', type=int, default=None, help='Rank page id')
     parser.add_argument('--delay', type=float, default=1.0, help=argparse.SUPPRESS)
     parser.add_argument('--url',
                         type=str,
-                        default=BASE_URL + 'rankings.php?id={ranking_id}&page={offset}&limit={limit}',
+                        default=BASE_URL + '/rankings.php?id={ranking_id}&page={offset}&limit={limit}',
                         help=argparse.SUPPRESS)
 
     args = parser.parse_args()
 
     return args
+
+
+def get_current_rank_id():
+    url = f'{BASE_URL}/rankings/me/pcs/individual'
+    resp = requests.get(url)
+    if not resp.ok:
+        logging.error(f'failed to load ranking id')
+        resp.raise_for_status()
+
+    soup = bs(resp.text, 'html.parser')
+    form = soup.find('form', action='rankings.php')
+    option = form.ul.li.find('span', class_='input').find('select').option
+
+    rank_id = option['value']
+    y, m, d = map(int, option.text.split('-'))
+    day = date(y, m, d)
+    if date.today() != day:
+        logging.warn(f'Suspicious id loaded with date {day}')
+
+    if y != 2019:
+        raise ValueError(f'Invalid year: {y}')
+
+    return rank_id
 
 
 def get_ranks(url):
@@ -77,6 +101,10 @@ def main():
 
     if os.path.exists(args.filename):
         logging.warn(f'"{args.filename}" alredy exists')
+
+    if args.ranking_id is None:
+        args.ranking_id = get_current_rank_id()
+        return
 
     complete_ranks = {}
     for offset in range(0, args.max_pages * args.paging, args.paging):

@@ -85,10 +85,10 @@ def main():
         'scores': diff,
     }
     if len(scores['weekly_data']) >= args.week:
-        # week update
+        logging.info('Updating week data')
         scores['weekly_data'][args.week] = new_week_data
     else:
-        # new week
+        logging.info('Adding new week')
         scores['weekly_data'].append(new_week_data)
 
     totals = calculate_totals(scores['weekly_data'])
