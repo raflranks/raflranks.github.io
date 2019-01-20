@@ -10,7 +10,7 @@ setuptools.setup(
 
     entry_points={
         'console_scripts': [
-            'rafl-scrape=scraper.pcs_rankings:main',
+            'rafl-scrape=tools.scrape_pcs_rankings:main',
             'rafl-scores=tools.add_scores:main',
         ],
     },
