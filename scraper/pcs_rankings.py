@@ -18,7 +18,7 @@ def parse_args():
     parser.add_argument('filename', help='Output file')
     parser.add_argument('--paging', type=int, default=200, help='Number of entries to show (50, 100, 200)')
     parser.add_argument('--max-pages', type=int, default=10, help='Number of pages to scrape')
-    parser.add_argument('--ranking-id', type=int, default=32741, help='Rank page id')
+    parser.add_argument('--ranking-id', type=int, default=32806, help='Rank page id')
     parser.add_argument('--delay', type=float, default=1.0, help=argparse.SUPPRESS)
     parser.add_argument('--url',
                         type=str,

@@ -35,7 +35,7 @@ def calculate_totals(week_data):
     return totals
 
 
-def calulate_week_diff(week_data, new_scores, new_week_number):
+def calculate_week_diff(week_data, new_scores, new_week_number):
     if new_week_number != (week_data[-1]['week_number'] + 1):
         raise ValueError(f'New week ({new_week_number}) does not follow last week in series')
 
@@ -52,15 +52,39 @@ def calulate_week_diff(week_data, new_scores, new_week_number):
     return diff_scores
 
 
+def verify_totals(current, totals):
+    if len(current) != len(totals):
+        raise ValueError('Missing riders')
+
+    for rider, score in current.items():
+        if totals[rider] != score:
+            raise ValueError(f'Rider "{rider}" has invalid score ({score})')
+
+
 def main():
     args = parse_args()
+    print(f'Processing week {args.week}')
+
+    with open(args.scores) as f:
+        scores = json.load(f)
+        print(f'Loaded scores with {len(scores["weekly_data"])} weeks covered')
 
     with open(args.last_ranks, 'r') as f:
         ranks = json.load(f)
 
-    with open(args.scores) as f:
-        scores = json.load(f)
-        print(f'Loaded scores with {len(scores["weekly_data"])} weeks covered, currently processing week {args.week}')
+    diff = calculate_week_diff(scores['weekly_data'][:args.week], ranks, args.week)
+    scores['weekly_data'].append({
+        'week_number': args.week,
+        'scores': diff,
+        })
+
+    totals = calculate_totals(scores['weekly_data'])
+    verify_totals(ranks, totals)
+    scores['totals'] = totals
+
+    with open(f'{args.scores}.new', 'w') as f:
+        json.dump(scores, f, sort_keys=True, indent=4)
+        print(f'Saved scores for {len(totals)} riders')
 
 
 if __name__ == '__main__':
