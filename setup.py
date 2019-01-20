@@ -9,7 +9,10 @@ setuptools.setup(
     packages=setuptools.find_packages(exclude=('tests',)),
 
     entry_points={
-        'console_scripts': ['rafl-scrape=scraper.pcs_rankings:main'],
+        'console_scripts': [
+            'rafl-scrape=scraper.pcs_rankings:main',
+            'rafl-scores=tools.add_scores:main',
+        ],
     },
     install_requires=[
         'requests',

@@ -5,6 +5,7 @@ from collections import defaultdict
 import argparse
 import datetime
 import json
+import os
 
 
 def current_week():
@@ -16,6 +17,7 @@ def parse_args():
 
     parser.add_argument('--last-ranks', required=True, help='File with latest ranks')
     parser.add_argument('--scores', required=True, help='Score file')
+    parser.add_argument('--output-file', required=True, help='Output file for new scores')
     parser.add_argument('--week', type=int, default=current_week(), help=argparse.SUPPRESS)
     parser.add_argument('--no-totals', action='store_true', default=False, help='Do not overwrite totals')
 
@@ -73,16 +75,25 @@ def main():
         ranks = json.load(f)
 
     diff = calculate_week_diff(scores['weekly_data'][:args.week], ranks, args.week)
-    scores['weekly_data'].append({
+    new_week_data = {
         'week_number': args.week,
         'scores': diff,
-        })
+    }
+    if len(scores['weekly_data']) >= args.week:
+        # week update
+        scores['weekly_data'][args.week] = new_week_data
+    else:
+        # new week
+        scores['weekly_data'].append(new_week_data)
 
     totals = calculate_totals(scores['weekly_data'])
     verify_totals(ranks, totals)
     scores['totals'] = totals
 
-    with open(f'{args.scores}.new', 'w') as f:
+    _, scores['_update_source'] = os.path.split(args.last_ranks)
+    scores['_update_timestamp'] = datetime.datetime.now().isoformat()
+
+    with open(f'{args.output_file}', 'w') as f:
         json.dump(scores, f, sort_keys=True, indent=4)
         print(f'Saved scores for {len(totals)} riders')
 
