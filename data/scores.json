@@ -1,13 +1,16 @@
 {
-    "_update_source": "ranks.2019-01-20.json",
-    "_update_timestamp": "2019-01-20T12:04:03.073968",
+    "_update_source": "ranks.2019-01-21.json",
+    "_update_timestamp": "2019-01-21T20:39:01.811146",
     "totals": {
         "adam-blythe": 5,
         "adam-hansen": 5,
         "alberto-bettiol": 5,
         "alex-dowsett": 5,
         "alexander-edmondson": 5,
+        "alexandre-pichot": 3,
         "anderson-timoteo-paredes": 6,
+        "andre-greipel": 7,
+        "andrea-vendrame": 1,
         "artyom-zakharov": 5,
         "ayden-toovey": 5,
         "ben-o-connor": 20,
@@ -48,6 +51,7 @@
         "hayden-mccormick": 3,
         "hector-carretero": 5,
         "heinrich-haussler": 5,
+        "henok-mulubrhan": 4,
         "hermann-pernsteiner": 8,
         "hubert-dupont": 5,
         "isaac-simon-yaguaro-flores": 1,
@@ -83,6 +87,7 @@
         "leo-vincent": 5,
         "leonel-quintero": 1,
         "lluis-guillermo-mas": 12,
+        "lorrenzo-manzin": 12,
         "lucas-hamilton": 24,
         "luis-leon-sanchez": 201,
         "luis-mora2": 23,
@@ -115,6 +120,7 @@
         "nathan-haas": 5,
         "neil-van-der-ploeg": 5,
         "nelson-camargo": 2,
+        "niccolo-bonifazio": 20,
         "nicholas-white2": 5,
         "nickolas-dlamini": 5,
         "nico-denz": 5,
@@ -134,6 +140,7 @@
         "robert-gesink": 5,
         "roger-kluge": 5,
         "rohan-dennis": 140,
+        "rohan-du-plooy": 2,
         "ronald-javier-gonzales": 16,
         "roniel-campos": 3,
         "rory-sutherland": 5,
@@ -164,6 +171,7 @@
         "yonathan-jesus-salinas": 20,
         "yonathan-monsalve": 5,
         "yonder-godoy": 4,
+        "youcef-reguigui": 5,
         "yukiya-arashiro": 5,
         "yurgen-ramirez": 2
     },
@@ -361,6 +369,19 @@
                 "yukiya-arashiro": 5
             },
             "week_number": 3
+        },
+        {
+            "scores": {
+                "alexandre-pichot": 3,
+                "andre-greipel": 7,
+                "andrea-vendrame": 1,
+                "henok-mulubrhan": 4,
+                "lorrenzo-manzin": 12,
+                "niccolo-bonifazio": 20,
+                "rohan-du-plooy": 2,
+                "youcef-reguigui": 5
+            },
+            "week_number": 4
         }
     ]
 }

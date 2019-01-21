@@ -79,18 +79,22 @@ def main():
     with open(args.last_ranks, 'r') as f:
         ranks = json.load(f)
 
+    logging.info(f'Calculating week diff 0:{args.week}')
     diff = calculate_week_diff(scores['weekly_data'][:args.week], ranks, args.week)
+    logging.info(f'{len(diff)} new scorers out of {len(ranks)} total')
     new_week_data = {
         'week_number': args.week,
         'scores': diff,
     }
-    if len(scores['weekly_data']) < args.week:
+
+    if len(scores['weekly_data']) > args.week:
         logging.info('Updating week data')
         scores['weekly_data'][args.week] = new_week_data
     else:
         logging.info('Adding new week')
         scores['weekly_data'].append(new_week_data)
 
+    logging.info('Calculating totlas')
     totals = calculate_totals(scores['weekly_data'])
     verify_totals(ranks, totals)
     scores['totals'] = totals

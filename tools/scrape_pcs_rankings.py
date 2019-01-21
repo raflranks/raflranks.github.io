@@ -104,6 +104,7 @@ def main():
 
     if args.ranking_id is None:
         args.ranking_id = get_current_rank_id()
+    logging.info(f'Using rank id {args.ranking_id}')
 
     complete_ranks = {}
     for offset in range(0, args.max_pages * args.paging, args.paging):
