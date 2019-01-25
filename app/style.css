@@ -1,0 +1,15 @@
+.sp-circle {
+    width: 48px;
+    height: 48px;
+    clear: both;
+    margin: 64px auto;
+    border: 6px rgba(33, 33, 33, 0.25) solid;
+    border-top: 6px black solid;
+    border-radius: 50%;
+    animation: spCircRot .666s infinite linear;
+}
+
+@keyframes spCircRot {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(359deg); }
+}
