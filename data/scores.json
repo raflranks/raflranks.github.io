@@ -1,6 +1,6 @@
 {
-    "_update_source": "ranks.2019-01-27.json",
-    "_update_timestamp": "2019-01-27T20:20:13.229663",
+    "_update_source": "ranks.2019-01-28.json",
+    "_update_timestamp": "2019-01-28T21:58:12.743044",
     "totals": {
         "aaron-gate": 33,
         "adam-blythe": 8,
@@ -11,6 +11,7 @@
         "alex-dowsett": 8,
         "alexander-edmondson": 8,
         "alexandre-pichot": 3,
+        "alvaro-jose-hodeg": 4,
         "anderson-timoteo-paredes": 6,
         "andre-greipel": 113,
         "andrea-vendrame": 19,
@@ -55,6 +56,7 @@
         "eduard-prades": 16,
         "elia-viviani": 269,
         "fabio-sabatini": 8,
+        "fernando-gaviria": 20,
         "fiseha-gebremariam": 4,
         "fran-ventoso": 8,
         "fredrik-hagen-carl": 8,
@@ -111,6 +113,7 @@
         "lionel-mawditt": 6,
         "lluis-guillermo-mas": 12,
         "lorrenzo-manzin": 141,
+        "luca-pacioni": 5,
         "lucas-hamilton": 27,
         "luis-leon-sanchez": 258,
         "luis-mora2": 23,
@@ -126,7 +129,9 @@
         "marcel-sieberg": 5,
         "marco-benfatto": 5,
         "marco-haller": 8,
+        "mark-cavendish": 1,
         "mathew-hayman": 5,
+        "matteo-malucelli": 12,
         "matteo-pelucchi": 21,
         "matthew-zenovich": 3,
         "matthieu-ladagnous": 5,
@@ -169,6 +174,7 @@
         "redwan-ebrahim": 6,
         "remi-cavagna": 9,
         "remy-mertz": 3,
+        "ricardo-escuela": 2,
         "richie-porte": 243,
         "robert-gesink": 50,
         "robert-stannard": 3,
@@ -180,9 +186,11 @@
         "rory-sutherland": 8,
         "ruben-fernandez": 15,
         "ruben-guerreiro": 137,
+        "rudy-barbier": 3,
         "ryan-christensen": 10,
         "ryan-gibbons": 183,
         "ryan-mullen": 8,
+        "sam-bennett": 7,
         "samuel-mugisha": 6,
         "scott-bowden": 1,
         "scott-davies": 5,
@@ -556,6 +564,19 @@
                 "youcef-reguigui": 91
             },
             "week_number": 4
+        },
+        {
+            "scores": {
+                "alvaro-jose-hodeg": 4,
+                "fernando-gaviria": 20,
+                "luca-pacioni": 5,
+                "mark-cavendish": 1,
+                "matteo-malucelli": 12,
+                "ricardo-escuela": 2,
+                "rudy-barbier": 3,
+                "sam-bennett": 7
+            },
+            "week_number": 5
         }
     ]
 }
