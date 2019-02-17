@@ -3,4 +3,4 @@
 
 import logging
 
-logging.basicConfig(format='%(levelname)s [%(module)s] %(message)s', level=logging.DEBUG)
+logging.basicConfig(format='%(levelname)s [%(module)s] %(message)s', level=logging.INFO)
