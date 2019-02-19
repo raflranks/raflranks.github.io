@@ -50,8 +50,8 @@ def calculate_week_diff(week_data, new_scores, new_week_number):
     for rider, score in totals.items():
         diff = new_scores[rider] - score
         if diff != 0:
-            # if diff < 0:
-            #     logging.warning(f'"{rider}" has lower score in week {new_week_number}')
+            if diff < 0:
+                logging.warning(f'"{rider}" has lower score in week {new_week_number}')
             diff_scores[rider] = diff
 
     return diff_scores
